@@ -27,7 +27,7 @@ ___
 ___
 ### *Espero saber de ti muy pronto 👀*
 *Correo:*
-[kl.herrera@outlook.com](mailito:kl.herrera@outlook.com)
+[kl.herrera@outlook.com](mailto:kl.herrera@outlook.com)
 ___
 ### *Creado en el Bootcamp de Tecnolochicas Pro*
 [👉🏽Tecnolochicas Pro 👈🏽](https://tecnolochicas.mx/)
